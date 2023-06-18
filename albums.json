@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "64570cc3c1ff6577c665d02e"
+  },
+  "email": "campinglife.isetso@gmail.com",
+  "group_name": "test0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570ccfc1ff6577c665d030"
+  },
+  "email": "campinglife.isetso@gmail.com",
+  "group_name": "Camping affiche",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570cdac1ff6577c665d032"
+  },
+  "email": "campinglife.isetso@gmail.com",
+  "group_name": "Team work",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570ce2c1ff6577c665d034"
+  },
+  "email": "campinglife.isetso@gmail.com",
+  "group_name": "Camping cap serrat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570de2c1ff6577c665d039"
+  },
+  "email": "campinglife.isetso@gmail.com",
+  "group_name": "Camping ain draham",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e3dc1ff6577c665d03d"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "test0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e45c1ff6577c665d03f"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "Affiche",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e4cc1ff6577c665d041"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "Team",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e54c1ff6577c665d043"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "Works",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e5bc1ff6577c665d045"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "Events",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e64c1ff6577c665d047"
+  },
+  "email": "mecatroniqueisetso@gmail.com",
+  "group_name": "Competitions",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e89c1ff6577c665d049"
+  },
+  "email": "nobilityisetso@gmail.com",
+  "group_name": "test0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e92c1ff6577c665d04b"
+  },
+  "email": "nobilityisetso@gmail.com",
+  "group_name": "Affiche",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570e9bc1ff6577c665d04d"
+  },
+  "email": "nobilityisetso@gmail.com",
+  "group_name": "Team",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64570ea4c1ff6577c665d04f"
+  },
+  "email": "nobilityisetso@gmail.com",
+  "group_name": "Competitions",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665d8d2d9b0ef2339eecd8"
+  },
+  "email": "userr23@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665dfd2d9b0ef2339f1eb5"
+  },
+  "email": "userr23@gmail.com",
+  "group_name": "Album",
+  "__v": 0
+}]

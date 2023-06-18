@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6463c76b270739e37c8918be"
+  },
+  "id_post_saved": {
+    "$oid": "644bf20b01ac6911d67ea119"
+  },
+  "email_saved": "khamaeil23@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464ccdb63b183d2553c7e34"
+  },
+  "id_post_saved": {
+    "$oid": "644c047d01ac6911d68373a8"
+  },
+  "email_saved": "sirinehaj66@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cce263b183d2553c8009"
+  },
+  "id_post_saved": {
+    "$oid": "644c044b01ac6911d68367fe"
+  },
+  "email_saved": "sirinehaj66@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cce563b183d2553c80a0"
+  },
+  "id_post_saved": {
+    "$oid": "644c046401ac6911d6836e7b"
+  },
+  "email_saved": "sirinehaj66@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d57b63b183d2554189a7"
+  },
+  "id_post_saved": {
+    "$oid": "644bf98301ac6911d6806610"
+  },
+  "email_saved": "bilelbezz@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d57f63b183d255418a37"
+  },
+  "id_post_saved": {
+    "$oid": "644bf96201ac6911d6805cbb"
+  },
+  "email_saved": "bilelbezz@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d5cf63b183d25541c5d5"
+  },
+  "id_post_saved": {
+    "$oid": "644bfb8001ac6911d680c376"
+  },
+  "email_saved": "hamzaaicha3@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d5d363b183d25541c84b"
+  },
+  "id_post_saved": {
+    "$oid": "644bfb9b01ac6911d680c64a"
+  },
+  "email_saved": "hamzaaicha3@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d5de63b183d25541cef0"
+  },
+  "id_post_saved": {
+    "$oid": "644bfb4901ac6911d680bd43"
+  },
+  "email_saved": "hamzaaicha3@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f37463b183d255453f70"
+  },
+  "id_post_saved": {
+    "$oid": "644c048e01ac6911d6837766"
+  },
+  "email_saved": "rayendhafer@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f37b63b183d255454372"
+  },
+  "id_post_saved": {
+    "$oid": "644c03de01ac6911d68345c1"
+  },
+  "email_saved": "rayendhafer@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f38d63b183d255454faf"
+  },
+  "id_post_saved": {
+    "$oid": "644bf14801ac6911d67e6366"
+  },
+  "email_saved": "rayendhafer@gmail.com",
+  "__v": 0
+}]

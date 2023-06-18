@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6463bf24270739e37c86eb59"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de nabeul",
+  "email": "khamaeil23@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463bf34270739e37c86f361"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse",
+  "email": "khamaeil23@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cb7d63b183d2553bd8fc"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Mahdia",
+  "email": "sirinehaj66@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cb8263b183d2553bdac6"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse",
+  "email": "sirinehaj66@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d61263b183d255420291"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse ",
+  "email": "hamzaaicha3@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d61c63b183d255420827"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse ",
+  "email": "bilelbezz@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f1e863b183d2554401cf"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Touzer",
+  "email": "rayendhafer@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f1ee63b183d2554406d9"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse      ",
+  "email": "rayendhafer@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6466547df2383063c68b582e"
+  },
+  "university": "Institut Supérieur des Etudes Technologiques de Sousse      ",
+  "email": "houssemess23@gmail.com",
+  "__v": 0
+}]

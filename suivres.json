@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "6463bf5b270739e37c87065a"
+  },
+  "email_followed": "campinglife.isetso@gmail.com",
+  "name_followed": "Camping Life",
+  "img_followed": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_follow": "khamaeil23@gmail.com",
+  "name_follow": "Amal Hbazi",
+  "img_follow": "uploads\\JBqdxAiJ_EtpFGDgWsoDRWXh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463cbdd270739e37c8c0b7c"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "khamaeil23@gmail.com",
+  "name_follow": "Amal Hbazi",
+  "img_follow": "uploads\\JBqdxAiJ_EtpFGDgWsoDRWXh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463cbe6270739e37c8c0f49"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "khamaeil23@gmail.com",
+  "name_follow": "Amal Hbazi",
+  "img_follow": "uploads\\JBqdxAiJ_EtpFGDgWsoDRWXh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cba463b183d2553beb0c"
+  },
+  "email_followed": "campinglife.isetso@gmail.com",
+  "name_followed": "Camping Life",
+  "img_followed": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_follow": "sirinehaj66@gmail.com",
+  "name_follow": "Zahra Brahem",
+  "img_follow": "uploads\\yqIuvbDkeYKPYnCCRpcgaLbh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464cc2263b183d2553c35c5"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "sirinehaj66@gmail.com",
+  "name_follow": "Zahra Brahem",
+  "img_follow": "uploads\\yqIuvbDkeYKPYnCCRpcgaLbh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d33963b183d255401fba"
+  },
+  "email_followed": "campinglife.isetso@gmail.com",
+  "name_followed": "Camping Life",
+  "img_followed": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_follow": "bilelbezz@gmail.com",
+  "name_follow": "Bilel ElBezi ",
+  "img_follow": "uploads\\LdLiod2YtDtBj0Jzp2Ue88Ay.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d35c63b183d255402715"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "bilelbezz@gmail.com",
+  "name_follow": "Bilel ElBezi ",
+  "img_follow": "uploads\\LdLiod2YtDtBj0Jzp2Ue88Ay.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d37263b183d255402ddd"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "bilelbezz@gmail.com",
+  "name_follow": "Bilel ElBezi ",
+  "img_follow": "uploads\\LdLiod2YtDtBj0Jzp2Ue88Ay.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d4fc63b183d25541328a"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "hamzaaicha3@gmail.com",
+  "name_follow": "Hamza Aicha",
+  "img_follow": "uploads\\YIw6r6h8W10QBdD1ObcNg6uw.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464d5ad63b183d25541acbd"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "hamzaaicha3@gmail.com",
+  "name_follow": "Hamza Aicha",
+  "img_follow": "uploads\\YIw6r6h8W10QBdD1ObcNg6uw.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f30463b183d25544e514"
+  },
+  "email_followed": "campinglife.isetso@gmail.com",
+  "name_followed": "Camping Life",
+  "img_followed": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_follow": "rayendhafer@gmail.com",
+  "name_follow": "Rayen Dhafer",
+  "img_follow": "uploads\\-pJeXaDwHvdnPrc2M4RK5jXc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6464f30e63b183d25544ebfb"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "rayendhafer@gmail.com",
+  "name_follow": "Rayen Dhafer",
+  "img_follow": "uploads\\-pJeXaDwHvdnPrc2M4RK5jXc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665452f2383063c68b34c4"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "houssemess23@gmail.com",
+  "name_follow": "Houssem Essaies ",
+  "img_follow": "uploads\\IYXcCuuWAX1Dj-q4rMNAnz2s.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665557f2383063c68bd671"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "seifsassi@gmail.com",
+  "name_follow": " Seif Sassi",
+  "img_follow": "uploads\\kRzdFE9K9R7ml1wl6iXRbEB7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665562f2383063c68bdee7"
+  },
+  "email_followed": "nobilityisetso@gmail.com",
+  "name_followed": "Nobility",
+  "img_followed": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_follow": "seifsassi@gmail.com",
+  "name_follow": " Seif Sassi",
+  "img_follow": "uploads\\kRzdFE9K9R7ml1wl6iXRbEB7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665572f2383063c68beef3"
+  },
+  "email_followed": "campinglife.isetso@gmail.com",
+  "name_followed": "Camping Life",
+  "img_followed": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_follow": "seifsassi@gmail.com",
+  "name_follow": " Seif Sassi",
+  "img_follow": "uploads\\kRzdFE9K9R7ml1wl6iXRbEB7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64665fad2d9b0ef2339f7c3b"
+  },
+  "email_followed": "mecatroniqueisetso@gmail.com",
+  "name_followed": "Mécatronique",
+  "img_followed": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_follow": "rayendhafer@gmail.com",
+  "name_follow": "Rayen Dhafer",
+  "img_follow": "uploads\\-pJeXaDwHvdnPrc2M4RK5jXc.jpg",
+  "__v": 0
+}]

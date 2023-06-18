@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "644befe301ac6911d67dc16d"
+  },
+  "nom": "Camping Life",
+  "mot_de_passe": "$2b$10$x8Ccj1U60ne5x5TjvYYwDe6DDwoQe7VdkGl6qXIhmVx8Dv6btgO8e",
+  "email": "campinglife.isetso@gmail.com",
+  "image": "uploads\\_Q5157FCPNSTpgJJcQleD_T3.jpg",
+  "email_contact": "campinglife.isetso@gmail.com",
+  "ville": "Sousse",
+  "tele": "23 902 031",
+  "nom_universite": "Institut Supérieur des Etudes Technologiques de Sousse",
+  "signe": "ISET",
+  "verif_code": "481211",
+  "validation": true,
+  "couverture": "uploads\\vtf5Ij3Bj4RbjthSJMSbpOz1.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "644bf7e101ac6911d67fb175"
+  },
+  "nom": "Mécatronique",
+  "mot_de_passe": "$2b$10$pJQGhFhqQ71kcDja1MtujeumLa6X10pTcmSP/b5SZGpbwc3kOwQd.",
+  "email": "mecatroniqueisetso@gmail.com",
+  "image": "uploads\\nMUGF7kpMw2wHgzEh2bps-73.jpg",
+  "email_contact": "mecatroniqueisetso@gmail.com",
+  "ville": "Sousse",
+  "tele": "94 812 011",
+  "nom_universite": "Institut Supérieur des Etudes Technologiques de Sousse",
+  "signe": "ISET",
+  "verif_code": "967826",
+  "validation": true,
+  "couverture": "uploads\\bp7t1tk2pyZqcH9nusPfZbA8.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "644c001401ac6911d6814ccd"
+  },
+  "nom": "Nobility",
+  "mot_de_passe": "$2b$10$DYtjRRFyD9v9Gyjs3RB6AOZJZVJD8u10xhAtfaaD0GiW8BpxIeyIW",
+  "email": "nobilityisetso@gmail.com",
+  "image": "uploads\\ZS4LC9Z4IbxiumNzAIzMDvun.jpg",
+  "email_contact": "nobilityisetso@gmail.com",
+  "ville": "Sousse",
+  "tele": "54 855 021",
+  "nom_universite": "Institut Supérieur des Etudes Technologiques de Sousse",
+  "signe": "ISET",
+  "verif_code": "548105",
+  "validation": true,
+  "couverture": "uploads\\JLobHjHU4f8QPY9BTKsts686.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "64665d8d2d9b0ef2339eecd5"
+  },
+  "nom": "Fake account",
+  "mot_de_passe": "$2b$10$uXGswNP/RmhjaKLZzzFv9ubkmeuBRANdFwVElZjqZ6fCCkgFzOSDO",
+  "email": "userr23@gmail.com",
+  "image": "uploads\\_qjOOjn8fbQJBs6TpyvhBEq3.jpg",
+  "email_contact": "userr23@gmail.com",
+  "ville": "Rades",
+  "tele": "55632235",
+  "nom_universite": "Institut Supérieur des Etudes Technologiques de Rades",
+  "signe": "ISETRa",
+  "verif_code": "221550",
+  "validation": true,
+  "active": true,
+  "couverture": "",
+  "__v": 0
+}]
